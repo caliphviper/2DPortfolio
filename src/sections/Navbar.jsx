@@ -1,3 +1,4 @@
+import Navbar from "./sections/navbar";
 import { useState } from "react";
 import { motion } from "motion/react";
 function Navigation() {
